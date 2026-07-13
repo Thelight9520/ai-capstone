@@ -1,4 +1,4 @@
-# ai-capstone
+# Ai-capstone
 
 This repository contains my AI Fluency capstone project.
 
@@ -11,4 +11,4 @@ This repository contains my AI Fluency capstone project.
 
 ## Goals
 
-Learn AI-assisted software development.
+1-Learn AI-assisted software development.
